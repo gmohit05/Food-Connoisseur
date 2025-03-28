@@ -8,15 +8,9 @@ A recipe blog web app where people can post and view the recipes of various food
 - Implemented CRUD functionality with MongoDB for efficient recipe storage and retrieval.
 - Utilized Node.js, Express.js, JavaScript, Tailwind CSS, and MongoDB for backend and frontend development.
 
-```
 
-## Installation
-To run this project, install it locally using npm:
 
-```
-$ npm install
-$ npm start
-```
+
 
 
 
